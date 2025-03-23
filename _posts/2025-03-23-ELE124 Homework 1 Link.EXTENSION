@@ -1,8 +1,8 @@
 ---
 title: ELE124 Homework 1 Link
 date: 2025-03-23 13:08:00 +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+categories: [C codes, ELE124 Codes]
+tags: [Homework]     # TAG names should always be lowercase
 ---
 
 <author_id>:
@@ -14,4 +14,3 @@ toc: false
 
 comments: false
 
-cdn: https://github.com/semihakalin/semihakalin.github.io/tree/main/Ele124_Homeworks/Homework_1
