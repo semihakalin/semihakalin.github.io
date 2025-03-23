@@ -16,7 +16,7 @@ timezone:
 
 title: Semih Akalın # the main title
 
-tagline: Hacettepe University Electrical and Electronics Engineering Student # it will display as the subtitle
+tagline: *Hacettepe University Electrical and Electronics Engineering Student # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Hacettepe University Electrical and Electronics Engineering Student
