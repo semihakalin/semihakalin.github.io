@@ -6,7 +6,4 @@ tags: [homework]     # TAG names should always be lowercase
 ---
 
 
-Here is the link to the github repo for the folder which the homework is in:
-
-
-https://github.com/semihakalin/ELE124-Homeworks/tree/main/Homework_1
+Here is the link to the github repo for the folder which the homework is in: (https://github.com/semihakalin/ELE124-Homeworks/tree/main/Homework_1)
